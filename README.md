@@ -3,8 +3,8 @@
 ## About Me
 A Computer Science and Design undergraduate with hands-on experience in full-stack web development using React.js, JavaScript, and modern web technologies. Passionate about building scalable and responsive applications and contributing to agile development teams. My objective as a developer is to apply and expand my skills through innovative full-stack projects in a dynamic environment.
 
-- 🔭 I'm currently working on *Audio Classification & Signal Processing System*
-- 🌱 I'm currently learning *AI/ML and Deep Learning*
+- 🔭 I'm currently working on *NEURONEST*(DYNAMIC WEBSITE FOR AUTISM KIDS)
+- 🌱 I'm currently learning *MERN STACK*
 - 👯 I'm looking to collaborate on *full-stack web development projects*
 - 📫 How to reach me *umasaipavantanukula@gmail.com*
 
@@ -35,17 +35,7 @@ ARKR Municipal High School, Bhimavaram, India
 - Focused on accessibility, clean UI, and emotionally sensitive content delivery
 - *Tech Stack:* React.js
 
-### 🎵 Audio Classification & Signal Processing System
-- Developed a real-time audio classification system using C++ and Convolutional Neural Networks (CNN), achieving 85% accuracy
-- Implemented signal processing algorithms and extracted MFCC features for effective model training
-- Created automated testing scripts and performance monitoring tools to evaluate system accuracy and speed
-- *Tech Stack:* Python, AI/ML, C++
 
-### 🏥 Hospital Management System
-- Developed a full-stack web application for hospital management with online appointment slot booking
-- Implemented user-friendly interface for patients to contact specialists and book slots based on available schedules
-- Built backend in PHP to manage doctor schedules, user bookings, and real-time slot validation
-- *Tech Stack:* HTML, CSS, JavaScript, PHP
 
 ### 📚 EDU-ACCESS
 - Developed a full-stack web platform to bridge the gap in educational access by providing curated resources for students across various career paths
