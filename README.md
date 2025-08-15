@@ -26,7 +26,7 @@ ARKR Municipal High School, Bhimavaram, India
 - Frontend developer for a full-stack responsive web app that manages and displays points for five department houses (Agni, Vayu, Prithvi, Jal, Aakash)
 - Designed interactive UI components to display weekly scores, house rankings, and a real-time leaderboard
 - Ensured a smooth user experience across devices with responsive design principles
-- *Live Project:* [csd-it-house.vercel.app/pointspage](https://csd-it-house.vercel.app/pointspage)
+- *Live Project:*[ https://csd-it-house-website-swapanths-projects.vercel.app/pointspage)
 - *Tech Stack:* React.js, CSS
 
 ### 🧠 NeuroNest: Supportive Web Platform for Children with Autism
