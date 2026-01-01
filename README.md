@@ -3,8 +3,9 @@
 ## About Me
 A Computer Science and Design undergraduate with hands-on experience in full-stack web development using React.js, JavaScript, and modern web technologies. Passionate about building scalable and responsive applications and contributing to agile development teams. My objective as a developer is to apply and expand my skills through innovative full-stack projects in a dynamic environment.
 
-- 🔭 I'm currently working on *NEURONEST*(DYNAMIC WEBSITE FOR AUTISM KIDS)
-- 🌱 I'm currently learning *MERN STACK*
+
+- 🌱 I'm currently working on SDE INTERN At Zennith AI.
+- 🔭 I'm currently working on Project *NEURONEST*(DYNAMIC WEBSITE FOR AUTISM KIDS)
 - 👯 I'm looking to collaborate on *full-stack web development projects*
 - 📫 How to reach me *umasaipavantanukula@gmail.com*
 
