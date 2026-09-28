@@ -121,7 +121,6 @@ I work across the full product cycle as **developer and designer**, with the maj
 
 ![RAG](https://img.shields.io/badge/RAG-Learning-8A2BE2?style=flat-square)
 ![AI Integration](https://img.shields.io/badge/AI_Integrations-412991?style=flat-square&logo=openai&logoColor=white)
-![Tesseract](https://img.shields.io/badge/OCR-Tesseract.js-blue?style=flat-square)
 
 **Languages & Problem Solving**
 
