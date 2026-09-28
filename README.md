@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uma Sai Pavan Tanukula</h1>
-<h3 align="center">Frontend Developer • React | Next.js | TypeScript | Tailwind CSS</h3>
-<h4 align="center">Building fast, accessible, AI-powered web experiences</h4>
+<h3 align="center">Software Developer • Frontend Specialist (React | Next.js | TypeScript) • Aspiring Java Full Stack Developer</h3>
+<h4 align="center">I design, build, test and ship end to end, with development as my core strength</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Frontend+Developer+%40+Zennith+AI;Building+with+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Learning+RAG+%26+AI-powered+apps;Solving+DSA+in+Java;Open+to+opportunities+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Software+Developer+%40+Zennith+AI;Frontend+Specialist+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Node.js+Backend+%E2%80%A2+REST+APIs+%E2%80%A2+Supabase+%26+Firebase;Growing+into+a+Java+Full+Stack+Developer;Learning+RAG+%26+Solving+DSA+in+Java" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,9 +17,12 @@
 
 ## 👨‍💻 About Me
 
-Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who ships **production-ready, responsive web apps** with React.js, Next.js, TypeScript and Tailwind CSS. As a **Software Developer Intern at Zennith AI**, I build real-time interfaces for an AI-powered omnichannel communication platform and a large-scale exam prep product. I also build full-stack, AI-assisted products end to end, from auth and payments to document processing.
+Software developer with a **strong frontend focus** and working knowledge of **Node.js backend development**. I build **production-ready, responsive web apps** with React.js, Next.js, TypeScript and Tailwind CSS, and I own features end to end: designing UI in **Stitch AI**, developing it, and **manually testing** it before it ships. Development is where I spend most of my time, and I'm now growing into a **Java Full Stack Developer**.
 
-- 💼 Frontend Developer Intern at **Zennith AI** (Sept 2025 – Present)
+Currently a **Software Developer Intern at Zennith AI**, building real-time interfaces for an AI-powered omnichannel communication platform and a large-scale exam prep product. B.Tech Computer Science & Design student (CGPA 8.55).
+
+- 💼 Software Developer Intern at **Zennith AI** (Sept 2025 – Present)
+- 🎯 Aspiring **Java Full Stack Developer**, on top of a solid frontend + Node.js foundation
 - 🏆 **2nd place** among 100+ teams at Prakalp National Project Expo 2025
 - 🌐 Multiple live, deployed projects used by real users
 - 🤝 Looking to collaborate on frontend / full-stack / AI-powered projects
@@ -29,9 +32,9 @@ Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who 
 
 | Focus | Details |
 |---|---|
+| ☕ **Java Full Stack Development** | Java backend, REST APIs and databases, building on my frontend + Node.js experience |
+| 🧩 **DSA in Java** | Strengthening problem solving and core CS fundamentals |
 | 🤖 **RAG (Retrieval-Augmented Generation)** | Building AI features grounded in real documents and data |
-| ☕ **Java + DSA** | Strengthening problem solving and core CS fundamentals |
-| 🩺 **MediBot** | AI-assisted healthcare platform (Next.js 15, Firebase, TypeScript) |
 | ⚡ **Advanced Next.js and TypeScript** | Performance, scalable architecture and clean component design |
 
 ---
@@ -40,11 +43,18 @@ Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who 
 
 ### Software Developer Intern — Zennith AI *(Remote, Sept 2025 – Present)*
 
+I work across the full product cycle as **developer and designer**, with the majority of my time on development.
+
+- 💻 **Development (primary):** Built scalable web applications with React.js, Next.js, TypeScript and Tailwind CSS. Integrated REST APIs, implemented real-time data updates and fixed frontend/backend issues to improve stability.
+- 🎨 **Design:** Designed UI screens and flows with **Stitch AI**, then turned them into responsive, polished interfaces, collaborating with UI/UX designers and backend developers.
+- 🧪 **Testing:** Performed manual testing to catch bugs and verify features before release.
+- 🔀 **Workflow:** Managed Git workflows (branching, pull requests, code reviews) and delivered production-ready features.
+
+**Projects at Zennith AI**
 - **Call Over** – AI-powered omnichannel communication platform (`React.js` `TypeScript` `REST APIs` `Tailwind CSS`)
   Built responsive interfaces and integrated real-time APIs across voice, chat, SMS and email modules, while optimizing frontend performance.
 - **ExamPrep** – Web + mobile platform for JEE, NEET, UPSC, Banking, SSC and more (`Next.js` `React Native` `TypeScript` `Supabase` `PostgreSQL`)
   Built previous-year questions, daily practice, timed mock tests, progress tracking, streaks and personalized learning features.
-- Worked closely with UI/UX designers and backend developers, managed Git workflows (branching, PRs, code reviews) and fixed frontend/backend issues to improve stability.
 
 ---
 
@@ -101,6 +111,12 @@ Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
+**Design & Testing**
+
+![Stitch AI](https://img.shields.io/badge/Stitch_AI-UI_Design-4285F4?style=flat-square&logo=google&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-QA-success?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 **AI & Learning**
 
 ![RAG](https://img.shields.io/badge/RAG-Learning-8A2BE2?style=flat-square)
@@ -109,7 +125,7 @@ Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who 
 
 **Languages & Problem Solving**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Full_Stack_Learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-In_Progress-orange?style=flat-square)
 
@@ -117,7 +133,6 @@ Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -125,7 +140,7 @@ Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who 
 
 **Core Strengths**
 
-`Responsive Design` • `Web Accessibility` • `Frontend Performance Optimization` • `Real-time UI` • `REST API Integration` • `Payments & Auth Flows` • `Design Thinking` • `Git Workflows & Code Reviews` • `Agile Collaboration`
+`Frontend Development` • `Node.js Backend` • `UI Design with Stitch AI` • `Manual Testing` • `Responsive Design` • `Web Accessibility` • `Performance Optimization` • `Real-time UI` • `REST API Integration` • `Payments & Auth Flows` • `Design Thinking` • `Git Workflows & Code Reviews` • `Agile Collaboration`
 
 ---
 
@@ -158,4 +173,4 @@ Frontend developer and B.Tech Computer Science & Design student (CGPA 8.55) who 
 
 ---
 
-<p align="center">⭐ Open to frontend roles and collaborations. Let's build something great together!</p>
+<p align="center">⭐ Open to software developer roles and collaborations. Let's build something great together!</p>
